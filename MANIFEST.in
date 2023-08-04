@@ -1,0 +1,4 @@
+include biostrings/examples/*
+include biostrings/biostruct/*
+include biostrings/biostruct/lib/*
+
