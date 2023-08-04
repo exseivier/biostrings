@@ -1,0 +1,13 @@
+>Seq1_0
+>Seq1_1
+>Seq1_2
+>Seq2_8
+>Seq2_9
+>Seq2_10
+>Seq2_11
+>Seq3_17
+>Seq3_18
+>Seq4_23
+>Seq4_24
+>Seq4_29
+>Seq4_30
